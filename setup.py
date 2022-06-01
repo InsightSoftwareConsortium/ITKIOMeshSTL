@@ -24,7 +24,7 @@ setup(
                      'meshes into STL files.\n'
                      'Please refer to:\n'
                      'Ibáñez L. "STL file format MeshIO class for ITK", '
-                     'Insight Journal, January-December 2014, http://hdl.handle.net/10380/3452.',
+                     'Insight Journal, January-December 2014, https://hdl.handle.net/10380/3452.',
     classifiers=[
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python",

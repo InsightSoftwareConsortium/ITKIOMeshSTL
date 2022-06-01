@@ -17,13 +17,13 @@ Overview
 This repository contains an ITK MeshIO class to read and write ITK meshes into
 STL files.
 
-For more information, see the `Insight Journal article <http://hdl.handle.net/10380/3452>`_::
+For more information, see the `Insight Journal article <https://hdl.handle.net/10380/3452>`_::
 
   Ibáñez L.
   STL file format MeshIO class for ITK
   The Insight Journal. January-December. 2014.
-  http://hdl.handle.net/10380/3452
-  http://www.insight-journal.org/browse/publication/913
+  https://hdl.handle.net/10380/3452
+  https://www.insight-journal.org/browse/publication/913
 
 
 Installation
