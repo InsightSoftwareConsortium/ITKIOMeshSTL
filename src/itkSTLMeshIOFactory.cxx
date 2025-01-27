@@ -51,7 +51,7 @@ STLMeshIOFactory ::GetDescription() const
 static bool STLMeshIOFactoryHasBeenRegistered;
 
 void IOMeshSTL_EXPORT
-     STLMeshIOFactoryRegister__Private()
+STLMeshIOFactoryRegister__Private()
 {
   if (!STLMeshIOFactoryHasBeenRegistered)
   {
