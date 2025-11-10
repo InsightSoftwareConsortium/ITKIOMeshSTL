@@ -90,9 +90,9 @@ public:
    * Therefore the following two methods are implemented as null
    * operations. */
   void
-  ReadPointData(void * itkNotUsed(buffer)) override{};
+  ReadPointData(void * itkNotUsed(buffer)) override {};
   void
-  ReadCellData(void * itkNotUsed(buffer)) override{};
+  ReadCellData(void * itkNotUsed(buffer)) override {};
 
   /*-------- This part of the interfaces deals with writing data. ----- */
   /** Determine if the file can be written with this MeshIO implementation.
@@ -143,9 +143,9 @@ public:
    * Therefore the following two methods are implemented as null
    * operations. */
   void
-  WritePointData(void * itkNotUsed(buffer)) override{};
+  WritePointData(void * itkNotUsed(buffer)) override {};
   void
-  WriteCellData(void * itkNotUsed(buffer)) override{};
+  WriteCellData(void * itkNotUsed(buffer)) override {};
 
 protected:
   STLMeshIO();
